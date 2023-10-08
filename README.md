@@ -1,5 +1,10 @@
 # skidos-announcement
 
+For Login Use Credentials: {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+
 Here aree some screenshots of ui of assigment done by me.
 
 ![image](https://github.com/Shubh1028/skidos-announcement/assets/60169667/259ce767-38b7-4c0a-b14c-ac4c94ad0a2b)
